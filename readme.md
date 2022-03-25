@@ -1,4 +1,4 @@
-Hi I'm Wonseo Choi. Researcher in HYU IoT Lab.
+👋 Hi there! I'm Wonseo Choi. Researcher in HYU IoT Lab.
 
 <img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 
