@@ -1,7 +1,3 @@
-# Wonseo Choi
-### Hanyang Univ. [HYU IoT Lab](https://hokeun.github.io/research/)
-
-
 **Platforms**
 
 <img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
