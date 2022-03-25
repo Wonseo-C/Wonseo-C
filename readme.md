@@ -1,6 +1,6 @@
 👋 Hi there! I'm Wonseo Choi. Researcher in [HYU IoT Lab](https://hokeun.github.io/research/).
 
-<a href="https://wonseo-c.github.io/about/" target="_blank"><img src="https://img.shields.io/badge/About me in my Blog-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+<a href="https://wonseo-c.github.io/about/" target="_blank"><img src="https://img.shields.io/badge/About me in my Blog-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a> :link:
 
 
 **Tools**
