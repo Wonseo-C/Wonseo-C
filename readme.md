@@ -11,4 +11,4 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
 
-![Wonseo-C's github stats](https://github-readme-stats.vercel.app/api?username=아이디&show_icons=true)
+![Wonseo-C's github stats](https://github-readme-stats.vercel.app/api?username=Wonseo-C&show_icons=true)
