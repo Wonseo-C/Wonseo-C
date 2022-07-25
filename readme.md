@@ -1,4 +1,3 @@
-<div align="center">
 
 👋 Hi there! I'm Wonseo Choi. Graduate Student in [HYU IoT Lab](https://hokeun.github.io/research/).
 
@@ -17,5 +16,3 @@
  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white"/>
-
-</div>
