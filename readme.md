@@ -1,5 +1,5 @@
 
-👋 Hi there! I'm Wonseo Choi. Graduate Student in [HYU IoT Lab](https://hokeun.github.io/research/).
+👋 Hi there! I'm Wonseo Choi.
 
 ### SNS
 
