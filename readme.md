@@ -5,8 +5,7 @@
 
 <a href="https://wonseo-c.github.io/" target="_blank"><img src="https://img.shields.io/badge/About me in my Blog 😃-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a> 
 
-<a href="https://velog.io/@wonseo_c" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"></a> : Tech Blog
-
+<a href="https://velog.io/@wonseo_c" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wonseo-choi-119799233/)](https://www.linkedin.com/in/wonseo-choi-119799233/)
 
 ### Tools
