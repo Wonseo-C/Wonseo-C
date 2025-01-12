@@ -1,6 +1,5 @@
-
+![header](https://capsule-render.vercel.app/api?type=soft&color=008000&height=17&section=header)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=35&duration=3000&pause=1000&color=28BF14&background=FF7E2F00&width=435&height=60&lines=Welecome+to+Wonseo's+Github+🐿️)](https://github.com/Wonseo-C)
-
 <!--
 👋 Hi there! I'm Wonseo Choi.
 -->
@@ -27,3 +26,4 @@
  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white"/>
+
