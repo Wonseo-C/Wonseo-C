@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=35&duration=3000&pause=1000&color=28BF14&background=FF7E2F00&width=435&height=60&lines=Welecome+to+Wonseo's+Github+🐿️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=35&duration=3000&pause=1000&color=28BF14&background=FF7E2F00&width=435&height=60&lines=Welecome+to+Wonseo's+Github+🐿️)](https://github.com/Wonseo-C)
 
 <!--
 👋 Hi there! I'm Wonseo Choi.
